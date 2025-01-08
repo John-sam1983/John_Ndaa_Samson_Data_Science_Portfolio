@@ -10,6 +10,6 @@ The table below gives a cursory view of all the projects present in this reposit
 
 |Project Name| Project Description|Link
 |:-----------:|:-------------------:|:-------:
-|Clustering of stocks in stock market           |Clustering of stocks with similar characteristics using K-Means clustering and Hierarchical clustering algorithms. Concepts such as the elbow method, silhouette scores, cophenetic correlation were used to select the optimum number of clusters.                    |(Clustering of stocks)[Clustering_Analysis_of_stock_market_data (Unsupervised_learning)]
+|Clustering of stocks in stock market           |Clustering of stocks with similar characteristics using K-Means clustering and Hierarchical clustering algorithms. Concepts such as the elbow method, silhouette scores, cophenetic correlation were used to select the optimum number of clusters.                    |[Clustering of stocks](Clustering_Analysis_of_stock_market_data (Unsupervised_learning))
 
 This repository is a compilation of all the data science projects I have successfully carried out.
